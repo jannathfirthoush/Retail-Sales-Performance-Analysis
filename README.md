@@ -102,3 +102,36 @@ The following tools were used for data preparation, analysis, and visualization.
 - Analyzing business performance using charts and slicers.
 
 
+## 4. Business Questions
+
+The following business questions were explored to understand retail sales performance and profitability.
+
+### Overall Business Performance
+1. What are the total sales, total profit, and total quantity sold?
+2. What is the overall profit margin?
+
+### Product and Category Analysis
+3. Which product categories generate the highest sales and profit?
+4. Which sub-categories perform well and which generate losses?
+5. Which products generate the highest and lowest revenue?
+6. Which products contribute the highest profit?
+
+### Regional Analysis
+7. Which regions generate the highest sales and profit?
+8. Which cities contribute the most to overall sales?
+
+### Discount Analysis
+9. How do discounts affect sales and profitability?
+10. Which discount levels are associated with lower or negative profits?
+
+### Customer Analysis
+11. Who are the highest-value customers based on sales?
+12. Which customers contribute the most profit?
+
+### Time-Based Analysis
+13. How do sales and profit change month over month?
+14. Which months record the highest and lowest sales?
+
+### Shipping Analysis
+15. How does shipping mode relate to sales and profitability?
+
