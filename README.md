@@ -135,3 +135,46 @@ The following business questions were explored to understand retail sales perfor
 ### Shipping Analysis
 15. How does shipping mode relate to sales and profitability?
 
+
+## 5. SQL Techniques Used
+
+PostgreSQL was used to perform business analysis and extract meaningful insights from the retail dataset.
+
+The following SQL concepts and techniques were applied:
+
+### Basic SQL
+- SELECT statements
+- WHERE conditions
+- ORDER BY
+- DISTINCT
+- LIMIT
+
+### Aggregate Functions
+- SUM()
+- AVG()
+- COUNT()
+- MIN()
+- MAX()
+
+### Grouping and Filtering
+- GROUP BY
+- HAVING
+- Conditional aggregation
+
+### Conditional Expressions
+- CASE WHEN
+- COALESCE()
+
+### Common Table Expressions
+- WITH (CTEs) to organize complex queries and simplify analysis.
+
+### Date and String Functions
+- Date extraction and formatting
+- Monthly sales and profit analysis
+- String manipulation functions
+
+### Window Functions
+- RANK() for ranking products, customers, and regions.
+- SUM() OVER() for calculating running totals.
+- LAG() for month-over-month comparisons.
+- PARTITION BY for analyzing performance within groups.
