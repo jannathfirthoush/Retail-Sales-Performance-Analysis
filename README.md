@@ -75,3 +75,30 @@ The dataset was cleaned and prepared before analysis.
 - Checked category and sub-category consistency.
 - Validated date fields.
 - Checked sales, quantity, discount, and profit values.
+
+
+## 3. Tools and Technologies Used
+
+The following tools were used for data preparation, analysis, and visualization.
+
+### Microsoft Excel
+- Data cleaning and preprocessing.
+- Identifying and removing duplicate records.
+- Handling missing values.
+- Data validation and formatting.
+- Initial data exploration.
+
+### PostgreSQL
+- Storing and managing the retail dataset.
+- Writing SQL queries for business analysis.
+- Performing aggregations and calculations.
+- Analyzing sales, profit, customers, products, and regions.
+- Applying advanced SQL techniques to identify business trends.
+
+### Microsoft Power BI
+- Developing interactive dashboards.
+- Creating key performance indicators (KPIs).
+- Visualizing sales and profitability trends.
+- Analyzing business performance using charts and slicers.
+
+
