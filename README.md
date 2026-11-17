@@ -222,3 +222,40 @@ Based on the analysis, the following recommendations can help improve retail bus
 6. **Optimize Shipping Operations:** Review shipping costs, delivery times, and shipping mode performance to improve operational efficiency and customer satisfaction.
 
 7. **Monitor Profitability Regularly:** Track sales, profit, and profit margins across products, categories, and regions to identify potential losses and take corrective action.
+
+
+## 8. Project Folder Structure
+
+The project files are organized into the following structure:
+
+```text
+Retail-Sales-Performance-Analysis/
+│
+├── Dataset/
+│   └── retail_sales.csv
+│
+├── SQL/
+│   └── retail_analysis.sql
+│
+├── PowerBI/
+│   └── retail_dashboard.pbix
+│
+├── Screenshots/
+│   └── dashboard.png
+│
+└── README.md
+```
+
+### Project Deliverables
+
+- Cleaned retail sales dataset.
+- SQL queries for business analysis.
+- Interactive Power BI dashboard.
+- Business insights and recommendations.
+- Project documentation.
+
+## Conclusion
+
+This project demonstrates the use of Excel, PostgreSQL, and Power BI to analyze retail sales data, evaluate business performance, and generate actionable insights.
+
+The analysis provides a foundation for data-driven decision-making by identifying sales trends, profitability patterns, customer performance, and opportunities for business improvement.
