@@ -178,3 +178,28 @@ The following SQL concepts and techniques were applied:
 - SUM() OVER() for calculating running totals.
 - LAG() for month-over-month comparisons.
 - PARTITION BY for analyzing performance within groups.
+
+
+## 6. Key Business Insights
+
+The SQL analysis revealed the following business insights:
+
+1. **Regional Sales Performance:** The West region contributed the highest revenue share at 31.04%, followed by Central at 30.28%, East at 21.96%, and South at 16.72%.
+
+2. **Furniture Product Performance:** Office Desk was the leading identified Furniture product, generating $307,118.31 in sales.
+
+3. **Office Supplies Product Performance:** Desk Organizer generated $56,479.41 in sales, making it the leading identified product in Office Supplies.
+
+4. **Technology Product Performance:** Laptop 14-inch generated $374,949.74 in sales, making it the leading identified Technology product.
+
+5. **Top Customer Performance:** Morgan Davis was the highest-selling customer among the identified top customers, generating $14,915.93 in sales with a 28.07% profit margin.
+
+6. **Customer Profitability:** Kendall Lewis generated $14,411.60 in sales with a 21.62% profit margin, while Casey Wilson generated $12,609.57 with a 19.74% profit margin.
+
+7. **Shipping Mode Performance:** Standard Class accounted for 2,744 orders, generating $3,936,739.37 in sales and $1,011,433.46 in profit.
+
+8. **Average Profit per Order:** Second Class recorded the highest average profit per order at $372.72.
+
+9. **Delivery Performance:** Standard Class had the longest average delivery time at 5.49 days, while Same Day delivery averaged 0.00 days.
+
+10. **Monthly Sales Trends:** Cumulative sales reached $7,163,757.18 by December 2025. Monthly comparisons also showed fluctuations, including a sales increase of $98,791.80 in May 2023 and a decrease of $93,695.12 in May 2024.
