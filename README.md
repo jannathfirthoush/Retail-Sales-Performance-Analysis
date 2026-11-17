@@ -203,3 +203,22 @@ The SQL analysis revealed the following business insights:
 9. **Delivery Performance:** Standard Class had the longest average delivery time at 5.49 days, while Same Day delivery averaged 0.00 days.
 
 10. **Monthly Sales Trends:** Cumulative sales reached $7,163,757.18 by December 2025. Monthly comparisons also showed fluctuations, including a sales increase of $98,791.80 in May 2023 and a decrease of $93,695.12 in May 2024.
+
+
+## 7. Business Recommendations
+
+Based on the analysis, the following recommendations can help improve retail business performance:
+
+1. **Focus on High-Performing Regions:** Strengthen sales strategies in the West and Central regions while identifying opportunities to improve performance in the South region.
+
+2. **Optimize Product Performance:** Maintain sufficient inventory for high-performing products and review underperforming products to identify improvement opportunities.
+
+3. **Improve Discount Strategies:** Evaluate discount levels before offering promotions to ensure that increased sales do not result in reduced profitability.
+
+4. **Strengthen Customer Retention:** Develop loyalty programs and personalized offers to retain high-value customers and encourage repeat purchases.
+
+5. **Monitor Monthly Performance:** Track monthly sales and profit trends to identify seasonal patterns and plan inventory and marketing activities accordingly.
+
+6. **Optimize Shipping Operations:** Review shipping costs, delivery times, and shipping mode performance to improve operational efficiency and customer satisfaction.
+
+7. **Monitor Profitability Regularly:** Track sales, profit, and profit margins across products, categories, and regions to identify potential losses and take corrective action.
